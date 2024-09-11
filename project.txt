@@ -1,0 +1,7 @@
+Maliyetlendirme Sistemi
+*********************************
+Maliyetlendirme Sistemi, malzeme ve ürün maliyetlerini etkili bir şekilde yönetmek amacıyla tasarlanmış şık bir Windows Forms uygulamasıdır. 
+Bu uygulama, kullanıcıların malzemeleri ve ürünleri veritabanına kolayca eklemelerini, güncellemelerini ve listelemelerini sağlar. 
+Ayrıca, malzeme alımı ve ürün satışı işlemlerini gerçekleştirebilir, ve böylece kasa bakiyesini dinamik olarak hesaplayabilir. 
+SQL Server entegrasyonu sayesinde veriler güvenli bir şekilde depolanır ve DataGridView gibi görsel araçlarla kullanıcıya sunulur. 
+Uygulama, performans iyileştirmeleri ve kullanıcı dostu arayüz tasarımı ile verimliliği artırmayı hedefler.

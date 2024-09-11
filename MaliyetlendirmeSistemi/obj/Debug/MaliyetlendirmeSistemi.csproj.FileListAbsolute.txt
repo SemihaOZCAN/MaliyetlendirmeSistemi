@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\bin\Debug\MaliyetlendirmeSistemi.exe.config
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\bin\Debug\MaliyetlendirmeSistemi.exe
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\bin\Debug\MaliyetlendirmeSistemi.pdb
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\obj\Debug\MaliyetlendirmeSistemi.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\obj\Debug\MaliyetlendirmeSistemi.Form1.resources
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\obj\Debug\MaliyetlendirmeSistemi.Properties.Resources.resources
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\obj\Debug\MaliyetlendirmeSistemi.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\obj\Debug\MaliyetlendirmeSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\obj\Debug\MaliyetlendirmeSistemi.exe
+C:\Users\Semiha\Desktop\MaliyetlendirmeSistemi\MaliyetlendirmeSistemi\obj\Debug\MaliyetlendirmeSistemi.pdb
